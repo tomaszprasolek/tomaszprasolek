@@ -1,3 +1,4 @@
 - Programista .NET 
-- :computer: Blog: https://poznajgita.pl
+- :computer: Blog nr 1: https://poznajgita.pl
+- :computer: Blog nr 2: https://tomaszprasolek.github.io/
 - :bird: Twitter: https://twitter.com/tomaszprasolek
